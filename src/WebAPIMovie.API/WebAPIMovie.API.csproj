@@ -21,4 +21,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WebAPIMovie.Business\WebAPIMovie.Business.csproj" />
+    <ProjectReference Include="..\WebAPIMovie.Core\WebAPIMovie.Core.csproj" />
+    <ProjectReference Include="..\WebAPIMovie.Data\WebAPIMovie.Data.csproj" />
+  </ItemGroup>
+
 </Project>

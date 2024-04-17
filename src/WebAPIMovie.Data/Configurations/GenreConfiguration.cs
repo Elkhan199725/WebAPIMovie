@@ -21,7 +21,7 @@ public class GenreConfiguration : IEntityTypeConfiguration<Genre>
 
         builder.Property(g => g.Id)
                .IsRequired()
-               .ValueGeneratedOnAdd(); // This indicates that the value is generated on add, typically by the database.
+               .ValueGeneratedOnAdd(); 
 
         builder.Property(g => g.Name)
                .IsRequired()
