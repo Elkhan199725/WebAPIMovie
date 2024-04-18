@@ -21,10 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Repository.Implementations\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\WebAPIMovie.Core\WebAPIMovie.Core.csproj" />
   </ItemGroup>
 

@@ -1,4 +1,5 @@
 C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\bin\Debug\net8.0\WebAPIMovie.Data.deps.json
+C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\bin\Debug\net8.0\WebAPIMovie.Data.runtimeconfig.json
 C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\bin\Debug\net8.0\WebAPIMovie.Data.dll
 C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\bin\Debug\net8.0\WebAPIMovie.Data.pdb
 C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\bin\Debug\net8.0\WebAPIMovie.Core.dll
@@ -8,11 +9,10 @@ C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\obj\Debug
 C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\obj\Debug\net8.0\WebAPIMovie.Data.AssemblyInfoInputs.cache
 C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\obj\Debug\net8.0\WebAPIMovie.Data.AssemblyInfo.cs
 C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\obj\Debug\net8.0\WebAPIMovie.Data.csproj.CoreCompileInputs.cache
+C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\obj\Debug\net8.0\WebAPIMovie.Data.sourcelink.json
 C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\obj\Debug\net8.0\WebAPIMo.B4C51DC6.Up2Date
 C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\obj\Debug\net8.0\WebAPIMovie.Data.dll
 C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\obj\Debug\net8.0\refint\WebAPIMovie.Data.dll
 C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\obj\Debug\net8.0\WebAPIMovie.Data.pdb
-C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\obj\Debug\net8.0\ref\WebAPIMovie.Data.dll
-C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\bin\Debug\net8.0\WebAPIMovie.Data.runtimeconfig.json
 C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\obj\Debug\net8.0\WebAPIMovie.Data.genruntimeconfig.cache
-C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\obj\Debug\net8.0\WebAPIMovie.Data.sourcelink.json
+C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.Data\obj\Debug\net8.0\ref\WebAPIMovie.Data.dll

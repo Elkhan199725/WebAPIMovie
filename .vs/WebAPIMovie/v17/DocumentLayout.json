@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{393F6D33-DD92-4CD8-8526-EC99D385A3B3}|src\\WebAPIMovie.API\\WebAPIMovie.API.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapimovie\\src\\webapimovie.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{393F6D33-DD92-4CD8-8526-EC99D385A3B3}|src\\WebAPIMovie.API\\WebAPIMovie.API.csproj|solutionrelative:src\\webapimovie.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{081A099A-6B06-473C-9A42-D77538EE60F8}|src\\WebAPIMovie.Business\\WebAPIMovie.Business.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapimovie\\src\\webapimovie.business\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{081A099A-6B06-473C-9A42-D77538EE60F8}|src\\WebAPIMovie.Business\\WebAPIMovie.Business.csproj|solutionrelative:src\\webapimovie.business\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC522B4E-CD78-4942-99CD-1E73920441A5}|src\\WebAPIMovie.Data\\WebAPIMovie.Data.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapimovie\\src\\webapimovie.data\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC522B4E-CD78-4942-99CD-1E73920441A5}|src\\WebAPIMovie.Data\\WebAPIMovie.Data.csproj|solutionrelative:src\\webapimovie.data\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC522B4E-CD78-4942-99CD-1E73920441A5}|src\\WebAPIMovie.Data\\WebAPIMovie.Data.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapimovie\\src\\webapimovie.data\\repository.implementations\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC522B4E-CD78-4942-99CD-1E73920441A5}|src\\WebAPIMovie.Data\\WebAPIMovie.Data.csproj|solutionrelative:src\\webapimovie.data\\repository.implementations\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC522B4E-CD78-4942-99CD-1E73920441A5}|src\\WebAPIMovie.Data\\WebAPIMovie.Data.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapimovie\\src\\webapimovie.data\\repository.implementations\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC522B4E-CD78-4942-99CD-1E73920441A5}|src\\WebAPIMovie.Data\\WebAPIMovie.Data.csproj|solutionrelative:src\\webapimovie.data\\repository.implementations\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC522B4E-CD78-4942-99CD-1E73920441A5}|src\\WebAPIMovie.Data\\WebAPIMovie.Data.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapimovie\\src\\webapimovie.data\\repository.implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC522B4E-CD78-4942-99CD-1E73920441A5}|src\\WebAPIMovie.Data\\WebAPIMovie.Data.csproj|solutionrelative:src\\webapimovie.data\\repository.implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A961FBC3-BCF7-4784-8938-E0734EDAE682}|src\\WebAPIMovie.Core\\WebAPIMovie.Core.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapimovie\\src\\webapimovie.core\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A961FBC3-BCF7-4784-8938-E0734EDAE682}|src\\WebAPIMovie.Core\\WebAPIMovie.Core.csproj|solutionrelative:src\\webapimovie.core\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC522B4E-CD78-4942-99CD-1E73920441A5}|src\\WebAPIMovie.Data\\WebAPIMovie.Data.csproj|C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\webapimovie.data\\contexts\\webapimoviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC522B4E-CD78-4942-99CD-1E73920441A5}|src\\WebAPIMovie.Data\\WebAPIMovie.Data.csproj|solutionrelative:src\\webapimovie.data\\contexts\\webapimoviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A961FBC3-BCF7-4784-8938-E0734EDAE682}|src\\WebAPIMovie.Core\\WebAPIMovie.Core.csproj|C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\webapimovie.core\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A961FBC3-BCF7-4784-8938-E0734EDAE682}|src\\WebAPIMovie.Core\\WebAPIMovie.Core.csproj|solutionrelative:src\\webapimovie.core\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{393F6D33-DD92-4CD8-8526-EC99D385A3B3}|src\\WebAPIMovie.API\\WebAPIMovie.API.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapimovie\\src\\webapimovie.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393F6D33-DD92-4CD8-8526-EC99D385A3B3}|src\\WebAPIMovie.API\\WebAPIMovie.API.csproj|solutionrelative:src\\webapimovie.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC522B4E-CD78-4942-99CD-1E73920441A5}|src\\WebAPIMovie.Data\\WebAPIMovie.Data.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapimovie\\src\\webapimovie.data\\configurations\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC522B4E-CD78-4942-99CD-1E73920441A5}|src\\WebAPIMovie.Data\\WebAPIMovie.Data.csproj|solutionrelative:src\\webapimovie.data\\configurations\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A961FBC3-BCF7-4784-8938-E0734EDAE682}|src\\WebAPIMovie.Core\\WebAPIMovie.Core.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapimovie\\src\\webapimovie.core\\repositories\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A961FBC3-BCF7-4784-8938-E0734EDAE682}|src\\WebAPIMovie.Core\\WebAPIMovie.Core.csproj|solutionrelative:src\\webapimovie.core\\repositories\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC522B4E-CD78-4942-99CD-1E73920441A5}|src\\WebAPIMovie.Data\\WebAPIMovie.Data.csproj|C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\webapimovie.data\\configurations\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC522B4E-CD78-4942-99CD-1E73920441A5}|src\\WebAPIMovie.Data\\WebAPIMovie.Data.csproj|solutionrelative:src\\webapimovie.data\\configurations\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A961FBC3-BCF7-4784-8938-E0734EDAE682}|src\\WebAPIMovie.Core\\WebAPIMovie.Core.csproj|C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\webapimovie.core\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A961FBC3-BCF7-4784-8938-E0734EDAE682}|src\\WebAPIMovie.Core\\WebAPIMovie.Core.csproj|solutionrelative:src\\webapimovie.core\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A961FBC3-BCF7-4784-8938-E0734EDAE682}|src\\WebAPIMovie.Core\\WebAPIMovie.Core.csproj|C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\webapimovie.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A961FBC3-BCF7-4784-8938-E0734EDAE682}|src\\WebAPIMovie.Core\\WebAPIMovie.Core.csproj|solutionrelative:src\\webapimovie.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A961FBC3-BCF7-4784-8938-E0734EDAE682}|src\\WebAPIMovie.Core\\WebAPIMovie.Core.csproj|c:\\users\\elkhan mammadli\\source\\repos\\webapimovie\\src\\webapimovie.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A961FBC3-BCF7-4784-8938-E0734EDAE682}|src\\WebAPIMovie.Core\\WebAPIMovie.Core.csproj|solutionrelative:src\\webapimovie.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,32 +46,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Business\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "src\\WebAPIMovie.Business\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Business\\ServiceRegistration.cs",
-              "RelativeToolTip": "src\\WebAPIMovie.Business\\ServiceRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Data\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "src\\WebAPIMovie.Data\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Data\\ServiceRegistration.cs",
+              "RelativeToolTip": "src\\WebAPIMovie.Data\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T23:26:49.146Z",
+              "WhenOpened": "2024-04-18T00:37:53.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.API\\Program.cs",
-              "RelativeDocumentMoniker": "src\\WebAPIMovie.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.API\\Program.cs",
-              "RelativeToolTip": "src\\WebAPIMovie.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABYAAAA",
+              "DocumentIndex": 1,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Data\\Repository.Implementations\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "src\\WebAPIMovie.Data\\Repository.Implementations\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Data\\Repository.Implementations\\MovieRepository.cs",
+              "RelativeToolTip": "src\\WebAPIMovie.Data\\Repository.Implementations\\MovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T23:21:18.345Z",
+              "WhenOpened": "2024-04-18T00:37:13.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Data\\Repository.Implementations\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "src\\WebAPIMovie.Data\\Repository.Implementations\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Data\\Repository.Implementations\\GenreRepository.cs",
+              "RelativeToolTip": "src\\WebAPIMovie.Data\\Repository.Implementations\\GenreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T00:35:38.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Data\\Repository.Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\WebAPIMovie.Data\\Repository.Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Data\\Repository.Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "src\\WebAPIMovie.Data\\Repository.Implementations\\GenericRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA2wBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T00:13:44.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Core\\Repositories\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "src\\WebAPIMovie.Core\\Repositories\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Core\\Repositories\\IMovieRepository.cs",
+              "RelativeToolTip": "src\\WebAPIMovie.Core\\Repositories\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T00:11:25.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Core\\Repositories\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "src\\WebAPIMovie.Core\\Repositories\\IGenreRepository.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Core\\Repositories\\IGenreRepository.cs",
+              "RelativeToolTip": "src\\WebAPIMovie.Core\\Repositories\\IGenreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T00:10:25.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\WebAPIMovie.Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "src\\WebAPIMovie.Core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T00:01:55.711Z",
               "EditorCaption": ""
             },
             {
@@ -92,93 +157,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Data\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "src\\WebAPIMovie.Data\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Data\\ServiceRegistration.cs",
-              "RelativeToolTip": "src\\WebAPIMovie.Data\\ServiceRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebAPIMovie.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.API\\Program.cs",
+              "RelativeToolTip": "src\\WebAPIMovie.API\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T23:19:32.291Z",
+              "WhenOpened": "2024-04-17T23:21:18.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MovieConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Data\\Configurations\\MovieConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\WebAPIMovie.Data\\Configurations\\MovieConfiguration.cs",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Data\\Configurations\\MovieConfiguration.cs",
-              "RelativeToolTip": "src\\WebAPIMovie.Data\\Configurations\\MovieConfiguration.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwBcAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T22:17:51.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GenreConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Data\\Configurations\\GenreConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\WebAPIMovie.Data\\Configurations\\GenreConfiguration.cs",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Data\\Configurations\\GenreConfiguration.cs",
-              "RelativeToolTip": "src\\WebAPIMovie.Data\\Configurations\\GenreConfiguration.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T22:17:40.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Core\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "src\\WebAPIMovie.Core\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Core\\Models\\Movie.cs",
-              "RelativeToolTip": "src\\WebAPIMovie.Core\\Models\\Movie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T22:13:08.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Core\\Models\\Genre.cs",
-              "RelativeDocumentMoniker": "src\\WebAPIMovie.Core\\Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Core\\Models\\Genre.cs",
-              "RelativeToolTip": "src\\WebAPIMovie.Core\\Models\\Genre.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T22:12:05.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "WebAPIMovieDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Data\\Contexts\\WebAPIMovieDbContext.cs",
               "RelativeDocumentMoniker": "src\\WebAPIMovie.Data\\Contexts\\WebAPIMovieDbContext.cs",
               "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Data\\Contexts\\WebAPIMovieDbContext.cs",
               "RelativeToolTip": "src\\WebAPIMovie.Data\\Contexts\\WebAPIMovieDbContext.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBsAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T21:23:13.211Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Core\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "src\\WebAPIMovie.Core\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Core\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "src\\WebAPIMovie.Core\\Models\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T21:15:39.369Z"
             }
           ]
         }
