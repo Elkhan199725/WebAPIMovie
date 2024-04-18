@@ -141,3 +141,6 @@ C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.API\obj\Debug\
 C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.API\obj\Debug\net8.0\WebAPIMovie.API.pdb
 C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.API\obj\Debug\net8.0\WebAPIMovie.API.genruntimeconfig.cache
 C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.API\obj\Debug\net8.0\ref\WebAPIMovie.API.dll
+C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.API\bin\Debug\net8.0\AutoMapper.Collection.dll
+C:\Users\Elkhan Mammadli\source\repos\WebAPIMovie\src\WebAPIMovie.API\bin\Debug\net8.0\AutoMapper.Extensions.ExpressionMapping.dll

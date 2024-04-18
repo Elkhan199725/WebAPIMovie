@@ -3,15 +3,18 @@ using WebAPIMovie.Business;
 using WebAPIMovie.Core;
 using WebAPIMovie.Data.Contexts;
 using Microsoft.EntityFrameworkCore;
+using FluentValidation;
 
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddControllers();
 builder.Services.AddRepositories();
 builder.Services.AddServices();
+
+builder.Services.AddValidatorsFromAssemblyContaining<GenreCreateDtoValidator>(); // This will scan the assembly for any FluentValidation validators and register them
 
 builder.Services.AddDbContext<WebAPIMovieDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));

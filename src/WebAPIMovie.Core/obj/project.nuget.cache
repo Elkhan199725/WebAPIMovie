@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "vCBw2z9e0rMhxXkSsWtXdLMEJxzsJYP2t3GZRRtn6hFaiw2IQeUAX5N3S3cVTwfi7GcOiq2/8Rg63Vc2xzXrlA==",
+  "dgSpecHash": "MVn6lg4OjwLfaInXY2qUzWLskk6eParnPNgWJsmPZ+yU6zxY2Pj05rHrl5S3kb+HFKvtO/6K+Inmu3R9J7+nFQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIMovie\\src\\WebAPIMovie.Core\\WebAPIMovie.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Elkhan Mammadli\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Elkhan Mammadli\\.nuget\\packages\\automapper.collection\\10.0.0\\automapper.collection.10.0.0.nupkg.sha512",
+    "C:\\Users\\Elkhan Mammadli\\.nuget\\packages\\automapper.extensions.expressionmapping\\7.0.0\\automapper.extensions.expressionmapping.7.0.0.nupkg.sha512",
     "C:\\Users\\Elkhan Mammadli\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Elkhan Mammadli\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\Elkhan Mammadli\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\Elkhan Mammadli\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Elkhan Mammadli\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\Elkhan Mammadli\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Elkhan Mammadli\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Elkhan Mammadli\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
